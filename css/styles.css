@@ -107,7 +107,7 @@ section .contentBx .formBx .inputBx input[type="submit"] {
 }
 
 section .contentBx .formBx .inputBx input[type="submit"]:hover {
-    background: linear-gradient(300deg, #e91e63, #03a9f4);    
+    background: linear-gradient(200deg, #e91e63, #03a9f4);    
 }
 
 section .contentBx .formBx .remember {
